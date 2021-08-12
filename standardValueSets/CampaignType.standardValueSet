@@ -7,7 +7,7 @@
         <label>Publicidad</label>
     </standardValue>
     <standardValue>
-        <fullName>Email</fullName>
+        <fullName>EmailHola</fullName>
         <default>false</default>
         <label>Correo electrónico</label>
     </standardValue>
