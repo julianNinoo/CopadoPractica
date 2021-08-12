@@ -337,7 +337,7 @@
     <listViews>
         <fullName>MyAccounts</fullName>
         <filterScope>Mine</filterScope>
-        <label>My Accounts</label>
+        <label>My Accounts-Prueba</label>
     </listViews>
     <listViews>
         <fullName>NewThisWeek</fullName>
